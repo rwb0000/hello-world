@@ -1,2 +1,3 @@
 # hello-world
-test repo to learn committing, branching, pull requests, inspection and merging 
+test repo to learn committing, branching, pull requests, inspection and merginG 
+this is the chANGE
